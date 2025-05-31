@@ -8,5 +8,3 @@ This repository contains the legal documents related to the **Nexus** Bot:
 Here you will find all the information regarding data collection, usage, and the rules for using the Nexus Bot.
 
 ---
-
-*Links to these documents will be added here soon.*
