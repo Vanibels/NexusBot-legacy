@@ -30,9 +30,9 @@ Nexus may collect and store the following non-sensitive data:
 - Moderation data (e.g., warnings, bans)
 - Command execution logs
 
-> ❗ Nexus does **not** collect private messages, IP addresses, emails, or other sensitive personal information.
+> Nexus does **not** collect private messages, IP addresses, emails, or other sensitive personal information.
 
-See the [Privacy Policy](#) for more details on data usage.
+See the [Privacy Policy](https://github.com/Vanibels/NexusBot-legacy/blob/main/PrivacyPolicy.md) for more details on data usage.
 
 ---
 

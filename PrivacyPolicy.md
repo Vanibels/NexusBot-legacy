@@ -2,7 +2,7 @@
 
 **Last Updated:** [04/06/2025]
 
-This Privacy Policy explains how **Nexus**, a Discord bot developed by **Vanibels** for the **ShogunSky** community, collects, uses, and stores data.
+This Privacy Policy explains how **Nexus**, a Discord bot developed by **Vanibels** for the **ShogunSky** discord server, collects, uses, and stores data.
 
 ---
 
@@ -17,7 +17,7 @@ Nexus may collect and store the following types of data:
 - **Command Usage**: Logs of specific bot commands executed (e.g., moderation, reports).
 - **Timestamps**: When actions such as warnings or rank changes occur.
 
-> ⚠️ No usernames, email addresses, IP addresses, or personal messages are collected.
+> No usernames, email addresses, IP addresses, or personal messages are collected.
 
 ---
 
