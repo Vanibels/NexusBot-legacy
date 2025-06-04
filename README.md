@@ -7,7 +7,3 @@ This repository contains the legal documents related to the **Nexus** Bot:
 
 Here you will find all the information regarding data collection, usage, and the rules for using the Nexus Bot.
 
-<<<<<<< HEAD
-=======
----
->>>>>>> fc1bb0dba1a01ad014395ed16401afbf2f5ca0f6
