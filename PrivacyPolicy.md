@@ -2,7 +2,7 @@
 
 **Last Updated:** [04/06/2025]
 
-This Privacy Policy explains how **Nexus**, a Discord bot developed by **Vanibels** for the **ShogunSky** discord server, collects, uses, and stores data.
+This Privacy Policy explains how **Nexus**, a Discord bot developed by **Vanibels** for the **Tenshi** discord server, collects, uses, and stores data.
 
 ---
 
@@ -37,13 +37,13 @@ The data collected is strictly used for:
 Nexus does **not** share data with third parties. All information is stored either:
 
 - Locally in JSON files managed by the bot
-- Within the ShogunSky Discord server context
+- Within the Tenshi Discord server context
 
 ---
 
 ### 4. Data Retention
 
-Data is stored as long as Nexus remains active in the ShogunSky Discord server. If the bot is removed or shut down, stored data will be deleted after a reasonable cleanup period.
+Data is stored as long as Nexus remains active in the Tenshi Discord server. If the bot is removed or shut down, stored data will be deleted after a reasonable cleanup period.
 
 ---
 
@@ -54,10 +54,10 @@ As a user, you may:
 - Request access to the data stored about you
 - Request deletion of your data
 
-To do so, please contact a staff member or administrator of the ShogunSky Discord server.
+To do so, please contact a staff member or administrator of the Tenshi Discord server.
 
 ---
 
 ### 6. Changes to This Policy
 
-We may update this Privacy Policy at any time. Significant changes will be announced via the ShogunSky Discord server or through the bot itself.
+We may update this Privacy Policy at any time. Significant changes will be announced via the Tenshi Discord server or through the bot itself.

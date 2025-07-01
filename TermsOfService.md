@@ -8,7 +8,7 @@ By using the **Nexus** Discord bot ("the Bot"), you agree to these **Terms of Se
 
 ### 1. Description
 
-**Nexus** is a Discord bot developed by **Vanibels** for the **ShogunSky** community. It assists with team management, moderation, role assignments, automated notifications, and server organization.
+**Nexus** is a Discord bot developed by **Vanibels** for the **Tenshi** community. It assists with team management, moderation, role assignments, automated notifications, and server organization.
 
 ---
 
@@ -16,7 +16,7 @@ By using the **Nexus** Discord bot ("the Bot"), you agree to these **Terms of Se
 
 - You must comply with [Discord’s Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) at all times.
 - You may not use Nexus for any illegal, harmful, abusive, or unauthorized purposes.
-- The ShogunSky guild assumes responsibility for how the Bot is used within its server.
+- The Tenshi guild assumes responsibility for how the Bot is used within its server.
 
 ---
 
@@ -46,4 +46,4 @@ Nexus is provided “as-is.”
 ### 5. Changes to These Terms
 
 These Terms may be updated at any time without prior notice.  
-Major updates will be announced through the Nexus bot or the ShogunSky Discord server.
+Major updates will be announced through the Nexus bot or the Tenshi Discord server.
